@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#B8AC7F</color>
+    <color name="aberto">#60b337</color>
+    <color name="atendimento">#d27024</color>
+    <color name="fechado">#d71c22</color>
+</resources>
